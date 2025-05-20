@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @bobby390
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on css
-- 📫 How to reach me
-- - mwondib@gmail.com
-- +254707222965
+# 👋 Hi, I’m @bobby390
+
+- 🧠 I know many modern programming languages, including:
+  - JavaScript / TypeScript
+  - Python
+  - PHP
+  - Java
+  - Dart (Flutter)
+  - Swift
+  - Kotlin
+  - Go
+  - C#
+  - C++
+  - SQL
+  - Bash
+  - HTML5 / CSS3 / SCSS
+
+- 📫 How to reach me:
+  - 📧 Email: [info@innov8teit.com](mailto:info@innov8teit.com)
+  - 📱 Phone: +254707222965
+
 
 <!---
 bobby390/bobby390 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
